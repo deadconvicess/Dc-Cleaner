@@ -10,4 +10,4 @@ How to use?
 2. Run the loader
 3. type 'start'
 
-## This software does not use any 3rd party sources
+## This software does NOT use any 3rd party sources
