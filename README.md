@@ -3,6 +3,7 @@
 Dc Cleaner is a small but amazing tool for cleaning/debloating your windows system.
 
 ---
+<img width="170" height="148" alt="download" src="https://github.com/user-attachments/assets/4300eb83-50fb-4013-89a5-9cb7d12e0720" />
 
 How to use? 
 
