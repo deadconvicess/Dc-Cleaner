@@ -2,6 +2,6 @@
 
 ## Discord Cleaner V2
 
-Dc Cleaner is a small but amazing tool for cleaning/debloating your windows system.
+Dc Cleaner is a small but amazing tool for cleaning/debloating your discord for the best performence.
 
 ---
